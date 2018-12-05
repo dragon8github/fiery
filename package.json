@@ -1,0 +1,20 @@
+{
+  "name": "fiery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon8github/fiery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon8github/fiery/issues"
+  },
+  "homepage": "https://github.com/dragon8github/fiery#readme"
+}
