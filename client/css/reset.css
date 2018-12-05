@@ -1,0 +1,34 @@
+body {
+	background-image: url(../../static/header.jpg);
+	background-size: cover;
+	background-position: 50%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	z-index: -1;
+}
+
+    .app {
+    	background: linear-gradient(0deg,rgba(44,44,44,.2),rgba(224,23,3,.6));
+    }
+
+    .lead {
+        color: #fff;
+        margin-top: 20px;
+    }
+
+    .logo {
+    	margin-right: 10px;
+    }
+
+/*
+ * !important
+ */
+.bg-dark, .jumbotron, .bg-light {
+    background: transparent !important;
+}
+
+.shadow-sm {
+    box-shadow: none !important;
+}
